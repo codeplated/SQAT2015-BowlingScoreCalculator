@@ -1,0 +1,16 @@
+FileOpenedAction 1444822669676 TestBowlingScoreCalculator.java 308 1 2 0
+UnitTestCaseAction 1444822721490 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1444822721501 TestSudokuVerifier FAIL
+RefactoringAction 1444823230631 Frame.java ADD int getFirstThrow() METHOD
+RefactoringAction 1444823230632 Frame.java ADD void setFirstThrow(int) METHOD
+RefactoringAction 1444823230633 Frame.java ADD int getSecondThrow() METHOD
+RefactoringAction 1444823230635 Frame.java ADD void setSecondThrow(int) METHOD
+RefactoringAction 1444823235928 Frame.java REMOVE getSecondThrow() METHOD
+RefactoringAction 1444823235930 Frame.java REMOVE getFirstThrow() METHOD
+RefactoringAction 1444823235931 Frame.java REMOVE setSecondThrow(int) METHOD
+RefactoringAction 1444823235932 Frame.java REMOVE setFirstThrow(int) METHOD
+RefactoringAction 1444823239019 Frame.java ADD int getFirstThrow() METHOD
+RefactoringAction 1444823239020 Frame.java ADD void setFirstThrow(int) METHOD
+RefactoringAction 1444823239022 Frame.java ADD int getSecondThrow() METHOD
+RefactoringAction 1444823239023 Frame.java ADD void setSecondThrow(int) METHOD
+EditAction 1444823239578 Frame.java 1091 10 11 0
