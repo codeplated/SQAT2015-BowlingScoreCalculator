@@ -15,3 +15,5 @@ RefactoringAction 1444823239022 Frame.java ADD int getSecondThrow() METHOD
 RefactoringAction 1444823239023 Frame.java ADD void setSecondThrow(int) METHOD
 EditAction 1444823239578 Frame.java 1091 10 11 0
 EditAction 1444823337104 BowlingGame.java 607 5 3 0
+FileOpenedAction 1444823371532 TestSudokuVerifier.java 233 1 0 0
+FileOpenedAction 1444823494566 TestSudokuVerifier.java 233 1 0 0
